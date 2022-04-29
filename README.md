@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Web development, LeetCoding and Movies :P**
-
 - 💞️ Other than my technical interests **I love playing Guitar :)**
 
 - 📫 Reach out to me at **ideva2811@gmail.com**
